@@ -17,7 +17,7 @@ def print_logo():
 
 def show_menu():
     print_logo()
-    print(f"      {RED}v 1.0{RESET}, Author: Sma1lo\n")
+    print(f"    {RED}v 1.0{RESET}, Author: Sma1lo\n")
     print(f"{RED}[{WHITE}1{RED}]{RESET} Download a single video")
     print(f"{RED}[{WHITE}2{RED}]{RESET} Download a playlist")
     print(f"{RED}[{WHITE}3{RED}]{RESET} Download all videos from a channel")
