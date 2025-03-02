@@ -4,6 +4,8 @@ This is a simple Python script for downloading videos from YouTube, playlists, a
 
 ## Installation
 
+###Linux
+
 ```bash
 git clone https://github.com/Sma1lo/YouTubeDownloader
 ```
