@@ -4,7 +4,8 @@ This is a simple Python script for downloading videos from YouTube, playlists, a
 
 ## Installation
 
-1. Ensure you have Python installed (recommended version is 3.6 or higher).
-2. Clone this repository:
+1. Ensure you have Python installed.
+2. Clone this repository: ```bash
+git clone https://github.com/Sma1lo/YouTubeDownloader```
 
    
