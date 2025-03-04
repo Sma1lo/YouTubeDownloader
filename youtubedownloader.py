@@ -2,9 +2,7 @@ import os
 import yt_dlp
 import menu
 
-
 # @author Sma1lo
-
 
 def download_single_video_yt_dlp(url, output_path):
     ydl_opts = {
