@@ -1,3 +1,5 @@
+# @author Sma1lo
+
 RED = "\033[91m"
 WHITE = "\033[97m"
 RESET = "\033[0m"
